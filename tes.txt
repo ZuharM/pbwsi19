@@ -1,1 +1,2 @@
 file ini dibuat dari github web
+baris ke 2 ini ditambah via komputer (lokal repositori)
